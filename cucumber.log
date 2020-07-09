@@ -1,0 +1,12 @@
+2020-07-09 20:02:35 INFO  RunEcrinTest:29 - **************************************************** 
+2020-07-09 20:02:35 INFO  RunEcrinTest:30 - **************************************************** 
+2020-07-09 20:02:35 INFO  RunEcrinTest:31 - *********      NOUVELLE SERIE DE TEST      ********* 
+2020-07-09 20:02:35 INFO  RunEcrinTest:32 - *********                                  ********* 
+2020-07-09 20:02:35 INFO  RunEcrinTest:33 - *********               DEBUT              ********* 
+2020-07-09 20:02:35 INFO  DossierStepdefs:57 - *********               DEBUT DU SCENARIO              ********* 
+2020-07-09 20:02:35 INFO  DossierStepdefs:65 - Scénario fait le 09/07/2020 à 08:02
+2020-07-09 20:02:35 INFO  DossierStepdefs:76 - Etat du scénario : FAILED
+2020-07-09 20:02:35 INFO  DossierStepdefs:78 - Le scénario Test sur les indemnités a échoué
+2020-07-09 20:02:35 INFO  DossierStepdefs:79 - ********** SCREENSHOT ********
+2020-07-09 20:02:35 INFO  RunEcrinTest:45 - Programme executé en : 0 secondes.
+2020-07-09 20:02:35 INFO  RunEcrinTest:46 - null\target\cucumber\index.html

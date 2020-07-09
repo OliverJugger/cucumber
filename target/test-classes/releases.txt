@@ -1,0 +1,2 @@
+16/03/2018 : Changement de browser driver : gecko pour Mozilla car l'attente est mieux gérée, chrome ne sait le faire qu'avec angular
+16/03/2018 : Redirection logs du browser driver de la console sur un fichier log "browser.log"
